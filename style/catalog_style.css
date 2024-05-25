@@ -1,13 +1,9 @@
-@font-face {
-    font-family: Comfortaa;
-    src: url(fonts/Comfortaa.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
 * {
     box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
-    font-family: Comfortaa;
+    font-family: "Comfortaa", sans-serif;
+
 }
 
 nav {
